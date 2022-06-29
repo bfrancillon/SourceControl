@@ -14,3 +14,6 @@ Can be use to create an app from scratch in your existing android and IOS app.It
 5- https://github.com/invertase/react-native-firebase
 It connect to firebase services, i use firebase to get users input, it is good for Android studio appp as well.
 
+6- https://github.com/github/gitignore
+It helps to keep the some file private like the debug file. there is different options of languages that gitignore come with
+
